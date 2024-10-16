@@ -3,8 +3,6 @@ type = "javascript"
 
 account_id = "9b77db2b502aaeb3996a57b9c0b8e441"
 workers_dev = true
-compatibility_date = "2024-10-16"
-
-[site]
-bucket = "./public"
-entry-point = "./src"
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
